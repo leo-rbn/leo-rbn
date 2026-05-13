@@ -10,7 +10,7 @@
 <p align="left">
 📕 I'm currently studying Computer Science, Music Technology and Psychology at A-Level<br><br>
 🛡️ I will be doing a degree in Cybersecurity and Ethical Hacking, Starting September<br><br>
-
+📝 After A-Levels are completed, I will be studying for the ComptiaA+ along side my degree
 
 <div align="left">
   <a href="https://www.github.com/leo-rbn" target="_blank">
@@ -19,6 +19,8 @@
     <a href="https://tryhackme.com/p/leorbn" target="_blank">
     <img src="https://img.shields.io/static/v1?message=TRYHACKME&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+  <a href="https://leorbn.co.uk" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio"  />
 </div>
 
 ###
