@@ -24,6 +24,11 @@
   </a>
   <a href="https://leorbn.co.uk" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio"  />
+
+  <a href="mailto:contact@leorbn.co.uk" >
+    <img src="https://img.shields.io/static/v1?message=Contact&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio"  />
+
+  
 </div>
 
 ###
