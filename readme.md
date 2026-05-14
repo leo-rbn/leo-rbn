@@ -10,7 +10,7 @@
 <p align="left">
 📕 I'm currently studying Computer Science, Music Technology and Psychology at A-Level<br><br>
 🛡️ I will be doing a degree in Cybersecurity and Ethical Hacking, Starting September<br><br>
-📝 After A-Levels are completed, I will be studying for the ComptiaA+ along side my degree
+📝 After A-Levels are completed, I will be studying for the CompTIA A+ along side my degree
 
 <div align="left">
   <a href="https://www.github.com/leo-rbn" target="_blank">
