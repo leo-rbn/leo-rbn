@@ -16,7 +16,6 @@
   <a href="https://www.github.com/leo-rbn" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=GitHub&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-<div align="left">
   <a href="https://www.codeberg.org/leorbn target="_blank">
     <img src="https://img.shields.io/static/v1?message=Codeberg&logo=Codeberg&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
